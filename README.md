@@ -1,15 +1,15 @@
 # Puerto-San-Nicolas-ExpoAgro
-Puerto San Nicolás - Sistema de Sorteos (2025)
-# 🎉 Sistema de Sorteos para Puerto San Nicolás (2025)  
+Puerto San Nicolás - Sistema de Sorteos (2025-2026)
+# 🎉 Sistema de Sorteos para Puerto San Nicolás (2025-2026)  
 
-**Cliente:** Puerto San Nicolás (Evento Expo Agro 2025)  
+**Cliente:** Puerto San Nicolás (Evento Expo Agro 2025-2026)  
 **Rol:** Desarrollador Full Stack  
 **Tecnologías:** Bootstrap (Frontend), PHP (Backend), MySQL (Base de datos), Servidor del cliente (Despliegue)
 
 ---
 
 ## 📌 Descripción del Proyecto  
-Sistema desarrollado para gestionar sorteos diarios durante el evento *Expo Agro 2025*. La aplicación garantiza:  
+Sistema desarrollado para gestionar sorteos diarios durante el evento *Expo Agro 2025-2026*. La aplicación garantiza:  
 - **Justicia en el sorteo:** Algoritmo de randomización que selecciona ganadores equilibrando participación y límites de premios diarios.  
 - **Control de premios:** Evita superar la cantidad asignada por día mediante un cálculo dinámico de probabilidades.  
 - **Registro seguro:** Validación de datos personales (DNI, teléfono, etc.) y almacenamiento cifrado.  
