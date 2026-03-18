@@ -18,7 +18,7 @@ Sistema desarrollado para gestionar sorteos diarios durante el evento *Expo Agro
 
 ## 🖼️ Capturas de Pantalla  
 ### Interfaz de Registro  
-![Formulario de registro](Puerto-sorteo.png)  
+![Formulario de registro](expoagro.png)  
 *Formulario con campos obligatorios y opcionales para participantes.*  
 
 ### Panel de Administración (Descripción)  
